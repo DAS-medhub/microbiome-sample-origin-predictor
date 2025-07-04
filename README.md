@@ -1,6 +1,3 @@
-Here is the complete `README.md` file formatted for GitHub:
-
-```markdown
 # Microbiome Sample Origin Predictor
 
 ## Overview
